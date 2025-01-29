@@ -1,0 +1,15 @@
+C:\Users\Gamze\source\repos\Link_Join_Pratik\Link_Join_Pratik\bin\Debug\net8.0\Linq_Join_Pratic.exe
+C:\Users\Gamze\source\repos\Link_Join_Pratik\Link_Join_Pratik\bin\Debug\net8.0\Linq_Join_Pratic.deps.json
+C:\Users\Gamze\source\repos\Link_Join_Pratik\Link_Join_Pratik\bin\Debug\net8.0\Linq_Join_Pratic.runtimeconfig.json
+C:\Users\Gamze\source\repos\Link_Join_Pratik\Link_Join_Pratik\bin\Debug\net8.0\Linq_Join_Pratic.dll
+C:\Users\Gamze\source\repos\Link_Join_Pratik\Link_Join_Pratik\bin\Debug\net8.0\Linq_Join_Pratic.pdb
+C:\Users\Gamze\source\repos\Link_Join_Pratik\Link_Join_Pratik\obj\Debug\net8.0\Linq_Join_Pratic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamze\source\repos\Link_Join_Pratik\Link_Join_Pratik\obj\Debug\net8.0\Linq_Join_Pratic.AssemblyInfoInputs.cache
+C:\Users\Gamze\source\repos\Link_Join_Pratik\Link_Join_Pratik\obj\Debug\net8.0\Linq_Join_Pratic.AssemblyInfo.cs
+C:\Users\Gamze\source\repos\Link_Join_Pratik\Link_Join_Pratik\obj\Debug\net8.0\Linq_Join_Pratic.csproj.CoreCompileInputs.cache
+C:\Users\Gamze\source\repos\Link_Join_Pratik\Link_Join_Pratik\obj\Debug\net8.0\Linq_Join_Pratic.sourcelink.json
+C:\Users\Gamze\source\repos\Link_Join_Pratik\Link_Join_Pratik\obj\Debug\net8.0\Linq_Join_Pratic.dll
+C:\Users\Gamze\source\repos\Link_Join_Pratik\Link_Join_Pratik\obj\Debug\net8.0\refint\Linq_Join_Pratic.dll
+C:\Users\Gamze\source\repos\Link_Join_Pratik\Link_Join_Pratik\obj\Debug\net8.0\Linq_Join_Pratic.pdb
+C:\Users\Gamze\source\repos\Link_Join_Pratik\Link_Join_Pratik\obj\Debug\net8.0\Linq_Join_Pratic.genruntimeconfig.cache
+C:\Users\Gamze\source\repos\Link_Join_Pratik\Link_Join_Pratik\obj\Debug\net8.0\ref\Linq_Join_Pratic.dll
